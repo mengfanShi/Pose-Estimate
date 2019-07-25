@@ -1,0 +1,1 @@
+Heatmap remove the restirct of AccumulateMap <= 1
